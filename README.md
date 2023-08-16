@@ -5,11 +5,11 @@
      "sourceUrl":"https://github.com/miaomiaolong/monvision/edit/main/a.txt"
 },
 {
-     "sourceName":"goodtele",
+     "sourceName":"goodtele2",
      "sourceUrl":"https://github.com/miaomiaolong/monvision/edit/main/b.txt"
 },
 {
-     "sourceName":"goodtele",
+     "sourceName":"goodtele3",
      "sourceUrl":"https://github.com/miaomiaolong/monvision/edit/main/c.txt"
 }
 
